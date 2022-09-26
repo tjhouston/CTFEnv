@@ -7,5 +7,7 @@ mkdir ./proof
 
 # Download Enumeration Tools
 cd enum
+# https://github.com/21y4d/nmapAutomator
 git clone https://github.com/21y4d/nmapAutomator
+# https://github.com/diego-treitos/linux-smart-enumeration 
 git clone https://github.com/diego-treitos/linux-smart-enumeration
