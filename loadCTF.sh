@@ -17,3 +17,5 @@ cd enum
 git clone https://github.com/21y4d/nmapAutomator
 # https://github.com/diego-treitos/linux-smart-enumeration 
 git clone https://github.com/diego-treitos/linux-smart-enumeration
+# Download Linpeas
+curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
