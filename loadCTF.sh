@@ -5,8 +5,11 @@ mkdir ./exploits
 mkdir ./notes
 mkdir ./proof
 
-#Download Sec Lists
+# Download Sec Lists
 sudo apt install seclists
+
+# Download GoBuster
+sudo apt install gobuster
 
 # Download Enumeration Tools
 cd enum
