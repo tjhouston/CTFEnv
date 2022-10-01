@@ -33,6 +33,10 @@ fi
 # Download GoBuster
 sudo apt install gobuster
 
+# Install FeroxBuster
+sudo apt install feroxbuster
+sudo apt upgrade
+
 # Download Enumeration Tools
 cd enum
 # https://github.com/21y4d/nmapAutomator
