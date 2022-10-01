@@ -46,3 +46,6 @@ git clone https://github.com/diego-treitos/linux-smart-enumeration
 # Download Linpeas
 # git clone https://github.com/carlospolop/PEASS-ng
 curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
+
+# Install Autorecon Depends
+sudo apt install seclists curl dnsrecon enum4linux feroxbuster gobuster impacket-scripts nbtscan nikto nmap onesixtyone oscanner redis-tools smbclient smbmap snmp sslscan sipvicious tnscmd10g whatweb wkhtmltopdf
