@@ -1,13 +1,4 @@
 # CTFEnv
-Tools to use for CTF's
+If you are using the hosted CTF attack boxes, you don't always have the tools you need. Created a script to install all of my tools and folders for each attack. 
 
-
-
-## Shells 
-Use Python to get bash: `python -c 'import pty;pty.spawn ("/bin/bash")'`
-
-
-## To Do
-### Setup options on script
-- Download seclists -no-seclist
-- unzip rockyou - unRock
+## Questions? tj@tjhouston.com
