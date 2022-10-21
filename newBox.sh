@@ -23,7 +23,12 @@ cd 01_Enumeration
 mkdir Tools
 # https://github.com/21y4d/nmapAutomator
 git clone https://github.com/21y4d/nmapAutomator
+
+# Add nmap automator depends
 sudo apt install smtp-user-enum -y
+sudo apt install ffuf -y
+sudo apt install gobuster -y
+
 mkdir Results
 cd ..
 mkdir 02_Exploits
