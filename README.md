@@ -4,7 +4,8 @@ If you are using the hosted CTF attack boxes, you don't always have the tools yo
 ## To Do
 ### Add To Setup Scripts
 - sudo msfdb init
-- sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y && sudo apt autoremove
+- add alias for update. kaliupdate : sudo apt update && sudo apt upgrade -y && sudo apt dist-upgrade -y && sudo apt autoremove
+
 
 ## Questions? tj@tjhouston.com
 
